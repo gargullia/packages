@@ -10,7 +10,7 @@ WIREGUARD_VERSION:=1.0.0
 PKG_BUILD_DIR:=$(BUILD_DIR)/amneziawg-linux-kernel-module-$(PKG_VERSION)
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
 PKG_SOURCE_URL:=https://codeload.github.com/github.com/amnezia-vpn/amneziawg-linux-kernel-module/tar.gz/v$(PKG_VERSION)?
-PKG_HASH:=
+PKG_HASH:=84f3df86ac728dc5e417dc14e44dbc615f240549c577aa5cf2a33b2d144b7e80
 
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_URL:=https://github.com/amnezia-vpn/amneziawg-linux-kernel-module.git
